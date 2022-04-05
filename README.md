@@ -7,4 +7,5 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 Sessions:
 
 [31st March 2022 - Bash Introduction](310322-Bash_Introduction/introduction.md)
+
 [7th April 2022 - Bash Intermediate](070422-Bash_Intermediate/introduction.md)
