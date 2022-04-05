@@ -7,6 +7,3 @@ In this session we'll learn about conditional expressions, conditionals, loops a
   - [conditionals](topics/conditionals.md)
   - [loops](topics/loops.md)
   - [functions](topics/functions.md)
-
-## Next Session
-- Interacting with AWS using Bash
