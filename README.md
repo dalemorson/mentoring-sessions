@@ -1,7 +1,7 @@
 # Mentoring Sessions
 A place to share mentoring session files and notes.
 
-> Use Visual Studio Code Live Sharing extension:
+> Use the Visual Studio Code Live Sharing extension during mentoring sessions!
 https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ## Bash
