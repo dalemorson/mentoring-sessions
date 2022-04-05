@@ -30,7 +30,7 @@ function hello(){
 hello
 ```
 
->{notice} One thing to keep in mind is that you should not add the parenthesis when you call the function.
+> One thing to keep in mind is that you should not add the parenthesis when you call the function.
 
 Passing arguments to a function work in the same way as passing arguments to a script:
 
