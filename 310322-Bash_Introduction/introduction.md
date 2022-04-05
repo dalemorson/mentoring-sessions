@@ -34,7 +34,7 @@ How long does it take to create 50 folders using the GUI compared to Bash!?
 mkdir folder{1..50}
 ```
 
-## Introduction
+## Topics
   - [structure](topics/structure.md)
   - [hello world](topics/hello-world.md)
   - [variables](topics/variables.md)
