@@ -90,13 +90,13 @@ You do not have to memorize them by heart :) Just just this list as a reference.
 [[ -v ${varname} ]]
 ```
 
-True if the length of the string is zero.
+* True if the length of the string is zero.
 
 ```bash
 [[ -z ${string} ]]
 ```
 
-True if the length of the string is non-zero.
+* True if the length of the string is non-zero.
 
 ```bash
 [[ -n ${string} ]]
