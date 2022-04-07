@@ -4,8 +4,6 @@ In computer science they are known as; conditional statements, conditional expre
 
 Evaluates true or false statements.
 
-In Bash, conditional expressions are used by the `[[` compound command and the `[` built-in commands to test file attributes and perform string and arithmetic comparisons. 
-
 Here is a list of the most popular Bash conditional expressions. 
 
 You do not have to memorize them by heart :) Just just this list as a reference.

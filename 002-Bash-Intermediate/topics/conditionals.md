@@ -1,13 +1,13 @@
 # Conditionals
 
-We can now use conditional expressions with standard conditional statements like `if`, `if-else` and `switch case` statements.
+We can now use `conditional expressions` with standard `conditional` statements like `if`, `if-else` and `switch case` statements.
 
 ## If statement
 
 The format of an `if` statement in Bash is as follows:
 
 ```bash
-if [[ some_test ]]
+if [[ conditional-expression ]]
 then
     <commands>
 fi
@@ -34,15 +34,17 @@ Write a bash script with the following requirements:
 1. Use `read` to store two variables, we want to check if these two variables are the same.
 2. Use an `if` statement.
 3. Use a `conditional expression` in the `if` statement to check if the two variables are the same.
-4. Use an `echo` to return a message when the `conditional expression` is true.
+4. Use an `echo` to return a message when the `conditional expression` is **true**.
 
 ### Task 6 - Questions
-1. What did you notice when the strings didn't match? ie the `conditional expression` was false?
+1. What happens if you type in two different strings? i.e. the `conditional expression` is false? Do you know why?
 2. What do you do to terminate an `if` statement?
 
 ## If Else statement
 
-With an `if-else` statement, you can specify an action in case that the condition in the `if` statement does not match. We can combine this with the conditional expressions from the previous section as follows:
+With an `if-else` statement, you can specify an action in case that the condition in the `if` statement does not match. 
+
+We can combine this with the conditional expressions from the previous section as follows:
 
 ```bash
 #!/bin/bash
@@ -67,7 +69,7 @@ Update the previous script with the following requirements:
 
 ## Switch case statements
 
-As in other programming languages, you can use a `case` statement to simplify complex conditionals when there are multiple different choices. 
+You can use a `case` statement to simplify complex conditionals when there are multiple different choices. 
 
 So rather than using a few `if`, and `if-else` statements, you could use a single `case` statement.
 

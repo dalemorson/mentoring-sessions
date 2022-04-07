@@ -1,10 +1,10 @@
 # Loops
 
-As with any other language, loops are very convenient. With Bash you can use `for` loops, `while` loops, and `until` loops.
+Loops are very convenient. With Bash you can use `for`, `while`, and `until` loops.
 
 ## For loops
 
-Here is the structure of a for loop:
+Here is the structure of a `for` loop:
 
 ```bash
 for var in ${list}
