@@ -1,7 +1,7 @@
 # Mentoring Sessions
-A place to share mentoring session files and notes.
+A repository to share Cloudreach mentoring sessions.
 
-> Use the Visual Studio Code Live Sharing extension during mentoring sessions!
+> Tip: Use the Visual Studio Code Live Sharing extension during mentoring sessions. Very useful way to pair program remotely. 
 https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ## Bash
