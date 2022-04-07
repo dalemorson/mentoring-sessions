@@ -1,4 +1,4 @@
-# Mentoring Sessions
+# :notebook_with_decorative_cover: Mentoring Sessions
 A repository to share Cloudreach mentoring sessions.
 
 > Tip: Use the Visual Studio Code Live Sharing extension during mentoring sessions. Very useful way to pair program remotely. 
