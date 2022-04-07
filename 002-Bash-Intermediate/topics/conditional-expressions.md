@@ -6,7 +6,7 @@ Evaluates true or false statements.
 
 Here is a list of the most popular Bash conditional expressions. 
 
-You do not have to memorize them by heart :) Just just this list as a reference.
+You do not have to memorise them by heart :) Just use this list as a reference.
 
 * True if file exists.
 
