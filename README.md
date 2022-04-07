@@ -6,5 +6,5 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ## Bash
 
-- [001 - Bash Introduction](001 - Bash Introduction/introduction.md)
-- [002 - Bash Intermediate](002 - Bash Intermediate/introduction.md)
+- [001 - Bash Introduction](001-Bash-Introduction/introduction.md)
+- [002 - Bash Intermediate](002-Bash-Intermediate/introduction.md)
