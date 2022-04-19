@@ -42,6 +42,10 @@ Create a Bash script to automate the creation of one or more buckets with the fo
 - Loop through each of the arguments passed in and create buckets with those arguments.
 - Hint: use `$@` to get all arguments within the `for` loop.
 
+## Question
+
+How could you expand on these scripts? 
+
 ## Resources
 
 - Search GitHub for useful AWS CLI Bash scripts.
