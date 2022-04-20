@@ -48,7 +48,7 @@ How could you expand on these scripts?
 
 ## Resources
 
-- Search GitHub for useful AWS CLI Bash scripts.
+- Search GitHub for useful [AWS CLI Bash](https://github.com/search?q=aws+cli+bash+scripts) scripts.
 - [AWS CLI](https://docs.aws.amazon.com/cli/index.html)
 - [AWS CLI Command Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/index.html)
 
