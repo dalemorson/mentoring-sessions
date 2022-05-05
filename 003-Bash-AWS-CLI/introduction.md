@@ -8,7 +8,7 @@ The AWS Command Line Interface (AWS CLI) is an open source tool that enables you
 
 ## Pre-reqs
 
-1. You'll need a Cloudreach provided account via the [AWS Vending Machine](https://aws.vending-machine.cloudreach.io/home/welcome). Full instructions available on [Confluence](https://cloudreach.jira.com/wiki/spaces/IT/pages/3704979661/New+AWS+Labs)
+1. You'll need a Cloudreach provided account via the [AWS Vending Machine](https://aws.vending-machine.cloudreach.io/home/welcome). Full instructions available on [Confluence](https://cloudreach.jira.com/wiki/spaces/IT/pages/3704979661/New+AWS+Labs), OR your own AWS lab.
 2. [Create an IAM user account and an access key ID / secret access key pair.](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-prereqs.html)
 3. [Install the AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 4. [Follow the configuration basics](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html)
