@@ -24,7 +24,7 @@ Create three S3 buckets via the AWS Management Console:
 
 Create three S3 buckets via the AWS CLI:
 - Can you find the AWS CLI command you need to use?
-- Again, what are the disadvantages of this method? 
+- What are the disadvantages or risks of using this method? 
 - What AWS CLI command do you use to list your buckets?
 
 ## Task 12
