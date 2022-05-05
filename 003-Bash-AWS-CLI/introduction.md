@@ -18,8 +18,7 @@ Now let's jump straight into some tasks!
 ## Task 10
 
 Create three S3 buckets via the AWS Management Console:
-- How long did it take? How many steps/pages did you have to go through?
-- What are the potential disadvantages of creating multiple instances of an AWS service manually in the Management Console?
+- What are the potential disadvantages or risks of creating multiple instances of an AWS service manually in the Management Console?
 
 ## Task 11
 
