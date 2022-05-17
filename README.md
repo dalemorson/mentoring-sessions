@@ -11,3 +11,6 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 - [001 - Bash Introduction](001-Bash-Introduction/introduction.md)
 - [002 - Bash Intermediate](002-Bash-Intermediate/introduction.md)
 - [003 - Bash and AWS CLI](003-Bash-AWS-CLI/introduction.md)
+
+## Configuration Management
+- [004 - Introduction to Configuration Management](004-Config-Management-Intro/Configuration%20Management%20Introduction.pptx)
