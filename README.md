@@ -14,3 +14,4 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ## Configuration Management
 - [004 - Introduction to Configuration Management](004-Config-Management-Intro/Configuration%20Management%20Introduction.pptx)
+- [005 - Getting Started with Puppet on Windows](https://wragg.io/getting-started-with-puppet-on-windows/)
