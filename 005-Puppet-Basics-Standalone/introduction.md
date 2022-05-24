@@ -117,3 +117,8 @@ exec { 'do-something':
   command => 'C:/something.exe'
 }
 ```
+
+### Puppet Help Command
+```
+puppet help
+```
