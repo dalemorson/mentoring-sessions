@@ -1,7 +1,8 @@
 # Puppet Introduction
 
-- This lab will introduce the Puppet Agent on a single Windows Server.
-- Puppet can be used in a single server or multi-server architecture.
+- This lab will introduce the Puppet Agent on a standalone Windows Server.
+- Puppet Agent can be used on a standalone server, or used in a client-server environment with the Puppet Server.
+- This lab will focus on the standalone architecture to learn some basics of the Puppet Agent and CLI commands.
 
 ## Introduction to Windows Server Configuration
 
