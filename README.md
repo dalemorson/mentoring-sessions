@@ -1,5 +1,5 @@
-# :notebook_with_decorative_cover: Mentoring Sessions
-- A repository to share Cloudreach mentoring sessions.
+# :notebook_with_decorative_cover: Template for Mentoring Sessions
+- A template repository to use in Cloudreach mentoring sessions.
 - These sessions are created based on topics picked from the [DevOps roadmap](https://roadmap.sh/devops).
 - Each topic should take roughly 45-60 minutes to work through, perfect for 1 hour weekly mentoring sessions.
 
@@ -13,5 +13,7 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 - [003 - Bash and AWS CLI](003-Bash-AWS-CLI/introduction.md)
 
 ## Configuration Management
+### Puppet
 - [004 - Introduction to Configuration Management](004-Config-Management-Intro/Configuration%20Management%20Introduction.pptx)
 - [005 - Getting Started with Puppet on a Single Windows Server](005-Puppet-Basics-Standalone/introduction.md)
+- [006 - Puppet Practice Labs](https://training.puppet.com/pages/20/puppet-practice-labs)
