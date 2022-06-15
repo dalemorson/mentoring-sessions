@@ -17,3 +17,7 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 - [004 - Introduction to Configuration Management](004-Config-Management-Intro/Configuration%20Management%20Introduction.pptx)
 - [005 - Getting Started with Puppet on a Single Windows Server](005-Puppet-Basics-Standalone/introduction.md)
 - [006 - Puppet Practice Labs](https://training.puppet.com/pages/20/puppet-practice-labs)
+
+## Cloud Migrations
+
+- [007 - Introduction to Cloud Migrations](007-Cloud-Migrations-Intro/Cloud%20Migrations.pptx)
