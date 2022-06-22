@@ -21,4 +21,6 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 ## Cloud Migrations
 
 - [007 - Introduction to Cloud Migrations](007-Cloud-Migrations-Intro/Cloud%20Migrations.pptx)
-- [008 - Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
+- 008 - AWS Landing Zone Workshops
+  - [Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
+  - [AWS Control Tower Workshops](https://controltower.aws-management.tools/)
