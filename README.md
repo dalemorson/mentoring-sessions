@@ -22,7 +22,7 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 - [007 - Introduction to Cloud Migrations](007-Cloud-Migrations-Intro/Cloud%20Migrations.pptx)
 - 008 - Getting Started with AWS Landing Zones using AWS Control Tower
-  - [AWS Organisations](https://aws.amazon.com/organizations/)
-  - [AWS Control Tower](https://aws.amazon.com/controltower/)
-  - [AWS Control Tower Workshops](https://controltower.aws-management.tools/)
-  - [Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
+  - [AWS Organisations](https://medium.com/awesome-cloud/aws-organizations-overview-introduction-to-what-is-aws-organization-multi-accounts-consolidated-billing-5009efc42b07)
+  - [AWS Control Tower](https://medium.com/@abhishekchakraborty78/aws-control-tower-3c4fb1d1b14f)
+  - [WORKSHOP - AWS Control Tower](https://controltower.aws-management.tools/)
+  - [WORKSHOP - Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
