@@ -24,9 +24,7 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 - 008 - Getting Started with AWS Landing Zones using AWS Control Tower
   - [AWS Organisations](https://medium.com/awesome-cloud/aws-organizations-overview-introduction-to-what-is-aws-organization-multi-accounts-consolidated-billing-5009efc42b07)
   - [AWS Control Tower](https://medium.com/@abhishekchakraborty78/aws-control-tower-3c4fb1d1b14f)
-  - [WORKSHOP - AWS Control Tower](https://controltower.aws-management.tools/)
-- 009 - AWS Landing Zone Governance
-  - [AWS Guardrails](https://docs.aws.amazon.com/controltower/latest/userguide/guardrails.html)
+  - [WORKSHOP - Deploy a Landing Zone using AWS Control Tower](https://controltower.aws-management.tools/core/overview/)
 
 # Misc Resources
 - [WORKSHOP - Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
