@@ -22,9 +22,11 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 - [007 - Introduction to Cloud Migrations](007-Cloud-Migrations-Intro/Cloud%20Migrations.pptx)
 - 008 - Getting Started with AWS Landing Zones using AWS Control Tower
-  - [AWS Control Tower Features](https://aws.amazon.com/controltower/features/)
+  - [AWS Control Tower PPTX](008-AWS-Control-Tower/AWS%20Control%20Tower.pptx)
+  - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
   - [WORKSHOP - Deploy a Landing Zone using AWS Control Tower](https://controltower.aws-management.tools/core/overview/)
 - [009 - Exploring Guardrails in AWS Control Tower](https://learn.acloud.guru/course/how-to-organize-your-accounts-in-aws/learn/8fb26648-558e-465e-86bc-a4086c0cee45/f28507be-766e-4527-b8be-337abbb3c3b1/watch)
 
-# Misc Resources
+# Workshops
 - [WORKSHOP - Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
+- [WORKSHOP - AWS Control Tower](https://controltower.aws-management.tools)
