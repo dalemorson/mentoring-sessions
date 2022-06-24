@@ -27,6 +27,10 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
   - [WORKSHOP - Deploy a Landing Zone using AWS Control Tower](https://controltower.aws-management.tools/core/overview/)
 - [009 - Exploring Guardrails in AWS Control Tower](https://learn.acloud.guru/course/how-to-organize-your-accounts-in-aws/learn/8fb26648-558e-465e-86bc-a4086c0cee45/f28507be-766e-4527-b8be-337abbb3c3b1/watch)
 
-# Workshops
+## Git
+
+## GitHub
+
+# AWS Workshops
 - [WORKSHOP - Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
 - [WORKSHOP - AWS Control Tower](https://controltower.aws-management.tools)
