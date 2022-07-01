@@ -29,7 +29,14 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ## Git
 
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Semantic Versioning](https://semver.org/)
+
 ## GitHub
+
+- [GitHub CLI](https://github.com/cli/cli)
+- [GitHub Labs](https://lab.github.com/)
+- [GitHub Skills](https://skills.github.com/)
 
 # AWS Workshops
 - [WORKSHOP - Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
