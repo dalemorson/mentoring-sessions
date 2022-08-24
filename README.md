@@ -38,6 +38,9 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 - [GitHub Labs](https://lab.github.com/)
 - [GitHub Skills](https://skills.github.com/)
 
+## Logs Management
+- [Logs Management](009-Logs-Management/Logs-Management.pptx)
+
 # AWS Workshops
 - [WORKSHOP - Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
 - [WORKSHOP - AWS Control Tower](https://controltower.aws-management.tools)
