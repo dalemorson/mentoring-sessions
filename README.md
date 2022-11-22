@@ -44,3 +44,6 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 # AWS Workshops
 - [WORKSHOP - Get Started with AWS for Production Workloads](https://getstarted.awsworkshop.io/)
 - [WORKSHOP - AWS Control Tower](https://controltower.aws-management.tools)
+
+## Network Protocols and Ports
+- [Network Protocols and Ports](https://lucid.app/documents/view/1858b558-ed25-4a84-bd55-7f22b9a45e80)
