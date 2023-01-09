@@ -47,3 +47,6 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ## Network Protocols and Ports
 - [Network Protocols and Ports](https://lucid.app/documents/view/1858b558-ed25-4a84-bd55-7f22b9a45e80)
+
+## Advanced Linux Tutorials
+- [linux.org](https://www.linux.org/forums/linux-advanced-tutorials.125/)
