@@ -48,5 +48,15 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 ## Network Protocols and Ports
 - [Network Protocols and Ports](https://lucid.app/documents/view/1858b558-ed25-4a84-bd55-7f22b9a45e80)
 
-## Advanced Linux Tutorials
+## Securing Linux
 - [linux.org](https://www.linux.org/forums/linux-advanced-tutorials.125/)
+- [Ubuntu Security Hardening](https://www.informaticar.net/security-hardening-ubuntu-20-04/)
+   - Disable root ssh login
+   - Enforce password security
+   - Hosts deny file `hosts.deny`
+   - tcpdump
+   - iptables
+   - RootKit Hunter
+   - Keeping software updated
+   - Install Google Authenticator service for MFA
+   - Install Anti-Virus
