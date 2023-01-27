@@ -49,8 +49,11 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 - [Network Protocols and Ports](https://lucid.app/documents/view/1858b558-ed25-4a84-bd55-7f22b9a45e80)
 
 ## Securing Linux
-- [linux.org](https://www.linux.org/forums/linux-advanced-tutorials.125/)
-- [Ubuntu Security Hardening](https://www.informaticar.net/security-hardening-ubuntu-20-04/)
+- Useful Links:
+   - [linux.org](https://www.linux.org/forums/linux-advanced-tutorials.125/)
+   - [Ubuntu Security Hardening](https://www.informaticar.net/security-hardening-ubuntu-20-04/)
+   - [10 Simple Ways to Secure Ubuntu from Hackers](https://tonyteaches.tech/secure-ubuntu-server/)
+- Topics to cover:
    - Disable root ssh login
    - Enforce password security
    - Hosts deny file `hosts.deny`
