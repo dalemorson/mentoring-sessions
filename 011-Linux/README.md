@@ -1,16 +1,8 @@
-# Linux
+# Linux Security
 
-## Case Sensitivity
-
-- Almost everything in Linux is case sensitive. `cd` is not the same as `CD`.
-- `tip`: careful of usernames when logging in.
-
+```bash
+TIP: Look out for case sensitivity in Linux!
 ```
-cd
-CD
-```
-
-
 
 ## Create New Root User and Disable Root Account
 
@@ -105,5 +97,44 @@ sudo systemctl enable clamav-freshclam
 ```bash
 sudo apt update
 sudo apt upgrade
+```
+
+# Checking for known and unknown rootkits, backdoors, sniffers and exploits
+
+- Use `Rkhunter` or Rootkit Hunter for:
+  - SHA256 hash changes;
+  - files commonly created by rootkits;
+  - executables with anomalous file permissions;
+  - suspicious strings in kernel modules;
+  - hidden files in system directories; and can optionally scan within files.
+- Checks for rootkits, binaries, and other files for evidence of tampering and vulnerabilities.
+- Informs of bad practises, for example SSH configuration allowing root logins.
+- Interactive tool by default but can be automated. 
+- Run as part of a new installation of the OS and also periodically as on-going security alerts.
+
+```bash
+sudo apt install rkhunter
+# Accept defaults
+sudo nano /var/log/rkhunter.log
+```
+
+# Enforce Password Complexity
+
+- Check if any users have empty passwords:
+
+```bash
+cat /etc/shadow | awk -F: '($2==""){print $1}'
+```
+
+- Install `libpam-pwquality` package:
+
+```bash
+sudo apt-get install libpam-pwquality
+```
+
+- Amend the `pwquality.conf` file with requirements, for example minimum length:
+
+```bash
+sudo nano /etc/security/pwquality.conf
 ```
 
