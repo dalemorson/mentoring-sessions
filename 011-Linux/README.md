@@ -1,6 +1,6 @@
 # Linux Security
 
-```bash
+```
 TIP: Look out for case sensitivity in Linux!
 ```
 
