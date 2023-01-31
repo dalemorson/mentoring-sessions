@@ -6,7 +6,7 @@ TIP: Look out for case sensitivity in Linux!
 
 ## Create New Root User and Disable Root Account
 
-- Best practise to remove the root user and create a new administrative account on new boxes. We'll use the the following commands in this section:
+- Best practice to remove the root user and create a new administrative account on new boxes. We'll use the the following commands in this section:
   - `adduser` command
   - `usermod` command
   - `whoami` command
@@ -30,7 +30,7 @@ sudo nano /etc/ssh/sshd_config
 
 - Change `PermitRootLogin` to `no`
 - `ctrl + O` to save
-- `ctrl + X` to save
+- `ctrl + X` to exit
 - Restart the SSH server:
 
 ```bash
@@ -65,7 +65,7 @@ sudo ufw status
 
 - `ufw` is used to to manage `IPtables`.
 - IPtables is a program to administer the IP packet filter rules of the Linux Kernel firewall (similar to the Windows Firewall)
-- Best practise to use third party firewalls but allows further security hardening.
+- Best practice to use third party firewalls but allows further security hardening.
 
 ```bash
 sudo iptables --list
@@ -75,7 +75,7 @@ sudo iptables --list
 
 # AntiVirus
 
-- Many debate the use of AV on Linux but best practise to install it.
+- Many debate the use of AV on Linux but best practise to install it especially in corporate environments.
 - Most customers will have AV for Linux.
 
 ```bash
@@ -137,4 +137,3 @@ sudo apt-get install libpam-pwquality
 ```bash
 sudo nano /etc/security/pwquality.conf
 ```
-
