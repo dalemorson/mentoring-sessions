@@ -50,3 +50,6 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 ## Linux
 - [Linux](011-Linux/README.md)
+
+## Cloud Design Patterns
+- [Cloud Design Patterns](012-Cloud-Design-Patterns/Cloud-Design-Patterns.pptx)
