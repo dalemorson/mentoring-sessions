@@ -1,8 +1,8 @@
 ﻿import asyncio
 from azure.servicebus.aio import ServiceBusClient
 
-NAMESPACE_CONNECTION_STR = ""
-QUEUE_NAME = ""
+NAMESPACE_CONNECTION_STR = "Endpoint=sb://clouddesignpatterns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=urAh3/d3j/vN6ts/iCV3ZGU13tuVXOP4t+ASbPbo8tg="
+QUEUE_NAME = "clouddesignpatterns"
 
 async def run():
     # create a Service Bus client using the connection string
@@ -16,7 +16,7 @@ async def run():
             async with receiver:
                 received_msgs = await receiver.receive_messages(max_wait_time=5, max_message_count=20)
                 for msg in received_msgs:
-                    print("Received: " + str(msg))
+                    print("Received message from queue: " + str(msg))
                     # complete the message so that the message is removed from the queue
                     await receiver.complete_message(msg)
 
