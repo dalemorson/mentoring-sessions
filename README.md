@@ -54,3 +54,7 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 ## Cloud Design Patterns
 - [Cloud Design Patterns](012-Cloud-Design-Patterns/Cloud-Design-Patterns.pptx)
 - [5 cloud design patterns to create resilient applications](https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications)
+
+## AWS SysOps Exam - Shared Learning
+
+## GCP - Shared Learning
