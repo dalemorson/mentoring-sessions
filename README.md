@@ -55,6 +55,8 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 - [Cloud Design Patterns](012-Cloud-Design-Patterns/Cloud-Design-Patterns.pptx)
 - [5 cloud design patterns to create resilient applications](https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications)
 
-## AWS SysOps Exam - Shared Learning
+## AWS SysOps Exam
+- [Exam guideline](https://d1.awsstatic.com/training-and-certification/docs-sysops-associate/AWS-Certified-SysOps-Administrator-Associate_Exam-Guide.pdf)
 
-## GCP - Shared Learning
+## GCP
+- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/?utm_source=cgc&utm_medium=website&utm_campaign=evergreen)
